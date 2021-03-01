@@ -1,6 +1,9 @@
+.container {
+  text-align: center;
+}
 .welcome {
   background-image: url(/images/welcome.jpg);
-  background-size: contain;
+  background-size: cover;
 }
 
 .welcome img {
@@ -13,7 +16,7 @@
 
 .services {
   background-image: url(/images/services.jpg);
-  background-size: contain;
+  background-size: cover;
 }
 
 h2 {
@@ -21,11 +24,12 @@ h2 {
 }
 .contactus {
   background-image: url(/images/contactus.jpg);
-  background-size: contain;
+  background-size: cover;
+  height: 40vh;
 }
-.set2 {
-  margin: 5px;
+#set2 img {
+  max-width: 100%;
 }
-#set1 {
-  margin: 5px;
+#set1 img {
+  max-width: 100%;
 }
