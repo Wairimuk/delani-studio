@@ -24,15 +24,34 @@
 h2 {
   text-align: center;
 }
+
 .contactus {
   background-image: url(/images/contactus.jpg);
   background-size: cover;
   height: 40vh;
   color: white;
 }
+
 #set2 img {
   max-width: 100%;
 }
+
 #set1 img {
   max-width: 100%;
+}
+
+.hidden1 {
+  display: none;
+}
+
+.hidden2 {
+  display: none;
+}
+
+.hidden3 {
+  display: none;
+}
+
+.icons {
+  cursor: pointer;
 }
