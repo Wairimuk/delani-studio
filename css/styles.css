@@ -1,7 +1,25 @@
-#welcome {
+.welcome {
   background-image: url(/images/welcome.jpg);
+  background-size: contain;
 }
 
-#services {
+.welcome img {
+  height: 100%;
+}
+
+.aboutus {
+  text-indent: 0px;
+}
+
+.services {
   background-image: url(/images/services.jpg);
+  background-size: contain;
+}
+
+h2 {
+  text-align: center;
+}
+.contactus {
+  background-image: url(/images/contactus.jpg);
+  background-size: contain;
 }
