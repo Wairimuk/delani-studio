@@ -45,5 +45,9 @@ h2 {
   cursor: pointer;
 }
 #socials {
-  padding-left: 320px;
+  padding-left: 340px;
+}
+.portfolio {
+  padding-left: 50px;
+  padding-right: 50px;
 }
