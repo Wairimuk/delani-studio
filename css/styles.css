@@ -2,13 +2,7 @@
   text-align: center;
 }
 .welcome {
-  background-image: url(/images/welcome.jpg);
-  background-size: cover;
   color: white;
-}
-
-.welcome img {
-  height: 100%;
 }
 
 .aboutus {
@@ -16,8 +10,6 @@
 }
 
 .services {
-  background-image: url(/images/services.jpg);
-  background-size: cover;
   color: white;
 }
 
